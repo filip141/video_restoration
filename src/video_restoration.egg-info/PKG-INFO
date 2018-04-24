@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: video-restoration
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: filip141
+Author-email: filip141@gmail.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy
+Requires: cv2
+Requires: tensorflow_gpu
+Requires: scipy
+Requires: matplotlib
